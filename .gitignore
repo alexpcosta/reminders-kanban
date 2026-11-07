@@ -1,0 +1,15 @@
+# Generated files and local configuration
+.build/
+.swiftpm/
+*.app/
+.DS_Store
+._*
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+graphify-out/
